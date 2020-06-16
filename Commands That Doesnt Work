@@ -1,0 +1,4 @@
+Command_File           ,            Folders           ,           Command          ,                   Additional Information.
+
+
+Serverinfo.js             Inside Commands/Info          ** { name: "Verification Level", value: message.guild.verilvl}, **    Command Giving Undif
